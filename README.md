@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/guanfu-video-teardown)
+
 **English**: A five-layer teardown method for hit knowledge videos (topic / hook / structure / pacing / ending) with question checklists, a teardown record template, three replication principles, and a teardown–replicate–review loop. Learn the craft without copying scripts.
 
 ---
